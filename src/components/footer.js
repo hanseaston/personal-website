@@ -107,7 +107,7 @@ const Footer = () => {
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
           style={{ width: '3rem', height: '3rem' }}
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/hanszhang00/Hansomo"
           target="_blank"
           rel="nofollow noopener noreferrer">
           {/* <div>Designed &amp; Built by Brittany Chiang</div>
