@@ -2,8 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
 </div>
 
-<h1> Disclaimer: This is a Gatsby template by Brittany Chiang.
-<h2> All credits go to her! </h2>
+<h1 align="center"> Disclaimer: This is a Gatsby template by Brittany Chiang. All credits go to her!
 
 <h2 align="center">
   brittanychiang.com - v4
