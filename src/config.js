@@ -27,10 +27,10 @@ module.exports = {
     //   name: 'Instagram',
     //   url: '',
     // },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/HansZha43692126',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/HansZha43692126',
+    // },
     // {
     //   name: 'StackOverFlow',
     //   url: '',

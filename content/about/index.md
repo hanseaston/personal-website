@@ -10,12 +10,13 @@ skills:
   - Mongoose
 ---
 
-Hey there! I'm Hans, a student currently studying at [Univeristy of Washington](https://www.washington.edu/). I am planning to graduate on June 2022.
+Hey there! I'm Hans, a student currently studying at [University of Washington](https://www.washington.edu/). I am graduating with a Master's degree June 2022.
 
-Currently looking for a summer 2021 software engineering and full stack internship.
+Currently looking for software engineering internships in 2021.
 
-I enjoy working on things that people care about, I care about. That can be in the form of volunteering, programming, writing, and anything, really.
+I work on things that can make people's lives better, even just slightly.
+This can be in the form of volunteering, coding, teaching, and many others.
 
-I fell in love with programming three years ago. Creativity, teamwork, and impact is what I care about in CS.
-
-I learn quick, and I enjoy doing it. Here's a few from this summer.
+I learn quick, and I enjoy doing it.
+Creativity, teamwork, and impact is what I love about CS.
+Here's a few new technologies I've learned over the summer.
