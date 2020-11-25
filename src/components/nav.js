@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
+
 import { Link } from 'gatsby';
-import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
+import Helmet from 'react-helmet';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
-import { throttle } from '@utils';
-import { navLinks, navHeight } from '@config';
+import styled from 'styled-components';
+
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
-import styled from 'styled-components';
-import { theme, mixins, media } from '@styles';
+import { navHeight, navLinks } from '@config';
+import { media, mixins, theme } from '@styles';
+import { throttle } from '@utils';
+
 const { colors, fontSizes, fonts, loaderDelay } = theme;
 
 const StyledContainer = styled.header`
@@ -153,11 +156,12 @@ const StyledListItem = styled.li`
 const StyledListLink = styled(Link)`
   padding: 12px 10px;
 `;
-const StyledResumeButton = styled.a`
-  ${mixins.smallButton};
-  margin-left: 10px;
-  font-size: ${fontSizes.smish};
-`;
+
+// const StyledResumeButton = styled.a`
+//   ${mixins.smallButton};
+//   margin-left: 10px;
+//   font-size: ${fontSizes.smish};
+// `;
 
 const DELTA = 5;
 
@@ -284,8 +288,7 @@ class Nav extends Component {
                   ))}
               </TransitionGroup>
             </StyledList>
-
-            <TransitionGroup component={null}>
+            {/* <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
@@ -298,7 +301,7 @@ class Nav extends Component {
                   </div>
                 </CSSTransition>
               )}
-            </TransitionGroup>
+            </TransitionGroup> */}
           </StyledLink>
         </StyledNav>
 

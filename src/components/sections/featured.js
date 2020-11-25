@@ -1,11 +1,14 @@
 import React, { useEffect, useRef } from 'react';
-import PropTypes from 'prop-types';
+
 import Img from 'gatsby-image';
-import sr from '@utils/sr';
-import { srConfig } from '@config';
-import { FormattedIcon } from '@components/icons';
+import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { theme, mixins, media, Section, Heading } from '@styles';
+
+import { FormattedIcon } from '@components/icons';
+import { srConfig } from '@config';
+import { Heading, media, mixins, Section, theme } from '@styles';
+import sr from '@utils/sr';
+
 const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
@@ -216,7 +219,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Open Souce Projects I&apos;ve Built</Heading>
 
       <div>
         {featuredProjects &&

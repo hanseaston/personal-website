@@ -1,8 +1,10 @@
 import React from 'react';
+
 import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
 import styled from 'styled-components';
+
+import { About, Contact, Featured, Hero, Jobs, Layout, Projects } from '@components';
 import { Main } from '@styles';
 
 const StyledMainContainer = styled(Main)`
@@ -14,7 +16,7 @@ const IndexPage = ({ location, data }) => (
     <StyledMainContainer className="fillHeight">
       <Hero data={data.hero.edges} />
       <About data={data.about.edges} />
-      {/* <Jobs data={data.jobs.edges} /> */}
+      <Jobs data={data.jobs.edges} />
       <Featured data={data.featured.edges} />
       <Projects data={data.projects.edges} />
       <Contact data={data.contact.edges} />

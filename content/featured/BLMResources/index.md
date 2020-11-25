@@ -7,7 +7,9 @@ external: 'https://hanszhang00.github.io/blm-resources/'
 tech:
   - Gatsby
   - React
+  - Postgres
   - Strapi
+  - Google Cloud
 showInProjects: true
 ---
 

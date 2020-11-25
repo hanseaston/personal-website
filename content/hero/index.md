@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Hans Zhang'
-subtitle: 'I write unspeakable things'
+subtitle: ''
 buttonText: 'Get In Touch'
 ---
 
-Or rather, code.
+I love coding with people, for people.

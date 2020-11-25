@@ -7,9 +7,10 @@ external: 'https://github.com/hanszhang00/Pandemic-Produce-Delivery-Project'
 tech:
   - React
   - Redux
+  - CSS
   - Express
   - Firebase
-  - MongoDb
+  - MongoDB
 showInProjects: true
 ---
 
