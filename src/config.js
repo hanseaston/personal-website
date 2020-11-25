@@ -1,7 +1,6 @@
 module.exports = {
-  siteTitle: 'Hans Zhang | Future Software Engineer',
-  siteDescription:
-    'Hans Zhang is a current student at Univeristy of Washington studying computer science.',
+  siteTitle: 'Hans Zhang | Student @ UW CSE',
+  siteDescription: `Hans' personal website`,
   siteKeywords:
     'Hans Zhang, hanszhang, hans, computer science, uw cse, software engineer, nothwestern, seattle, university of Washington, UW',
   siteUrl: 'https://hansomo.com',
