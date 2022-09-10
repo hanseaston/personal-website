@@ -2,8 +2,8 @@
 date: '1'
 title: 'BLM Educational Resources'
 cover: './landinPage.png'
-github: 'https://github.com/hanszhang00/blm-resources'
-external: 'https://hanszhang00.github.io/blm-resources/'
+github: 'https://github.com/hanseaston/blm-resources'
+external: 'https://hanseaston.github.io/blm-resources/'
 tech:
   - Gatsby
   - React

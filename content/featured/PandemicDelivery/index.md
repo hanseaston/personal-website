@@ -2,8 +2,8 @@
 date: '2'
 title: 'Pandemic Delivery Shop'
 cover: './landinPage.jpg'
-github: 'https://github.com/hanszhang00/Pandemic-Produce-Delivery-Project'
-external: 'https://github.com/hanszhang00/Pandemic-Produce-Delivery-Project'
+github: 'https://github.com/hanseaston/Pandemic-Produce-Delivery-Project'
+external: 'https://github.com/hanseaston/Pandemic-Produce-Delivery-Project'
 tech:
   - React
   - Redux

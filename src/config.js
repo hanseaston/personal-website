@@ -1,25 +1,25 @@
 module.exports = {
-  siteTitle: 'Hans Zhang | Student @ UW CSE',
+  siteTitle: 'Hans Easton | UW CSE',
   siteDescription: `Hans' personal website`,
   siteKeywords:
-    'Hans Zhang, hanszhang, hans, computer science, uw cse, software engineer, nothwestern, seattle, university of Washington, UW',
+    'Hans Easton, hanseaston, hans, computer science, uw cse, software engineer, seattle, University of Washington, UW',
   siteUrl: 'https://hansomo.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Hans Zhang',
+  name: 'Hans Waston',
   location: 'Seattle, WA',
-  email: 'hans00@cs.washington.edu',
-  github: 'https://github.com/hanszhang00',
+  email: 'hansreaston@gmail.com',
+  github: 'https://github.com/hanseaston',
   twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/hanszhang00',
+      url: 'https://github.com/hanseaston',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/hanszhang00/',
+      url: 'https://www.linkedin.com/in/hanseaston/',
     },
 
     // {
@@ -41,10 +41,10 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    // {
-    //   name: 'Experience',
-    //   url: '/#jobs',
-    // },
+    {
+      name: 'Experience',
+      url: '/#jobs',
+    },
     {
       name: 'Projects',
       url: '/#projects',

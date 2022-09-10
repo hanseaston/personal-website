@@ -1,12 +1,12 @@
 ---
 date: '2019-06-21'
 title: 'Weather Abouts'
-github: 'https://github.com/hanszhang00/WeatherAbouts'
+github: 'https://github.com/hanseaston/WeatherAbouts'
 external: ''
 tech:
-  - Java 
+  - Java
   - Android Studio
-  
+
 company: ''
 showInProjects: true
 ---

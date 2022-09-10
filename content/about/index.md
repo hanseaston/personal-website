@@ -3,7 +3,7 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Java
-  - Typescript
+  - Javascript
   - React
   - C++
   - SQL
@@ -12,9 +12,9 @@ skills:
   - Git
 ---
 
-Hey there! My name is Hans. I am a student majoring in computer science at [University of Washington](https://www.washington.edu/).
+I am a student majoring in computer science at [University of Washington](https://www.cs.washington.edu/).
 
-Currently looking for new opportunities for the year 2022!
+Currently looking for new opportunities for the year 2023!
 
 I work on things that can make people's lives better, even just slightly.
 This can be in the form of volunteering, coding, teaching, and many others.
