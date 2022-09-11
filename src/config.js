@@ -3,11 +3,11 @@ module.exports = {
   siteDescription: `Hans' personal website`,
   siteKeywords:
     'Hans Easton, hanseaston, hans, computer science, uw cse, software engineer, seattle, University of Washington, UW',
-  siteUrl: 'https://hansomo.com',
+  siteUrl: 'https://hanseaston.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Hans Waston',
+  name: 'Hans Easton',
   location: 'Seattle, WA',
   email: 'hansreaston@gmail.com',
   github: 'https://github.com/hanseaston',
