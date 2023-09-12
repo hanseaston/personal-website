@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-Designed a simple flight booking application in Java via JDBC, with data stored on Azure. Enabled users to login, search, book, cancel, and pay for flights with command-line interface. Ensured concurrency using SQL transactions. Multiple users can use the service concurrently.
+I designed a simple flight booking application in Java that utilized JDBC to interact with data stored on Azure. The application enabled users to perform various actions such as login, search for flights, book, cancel, and pay for them, all through a command-line interface. To ensure data integrity and concurrency, I implemented SQL transactions, allowing multiple users to use the service concurrently without conflicts.

@@ -11,7 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A quarter long class project to build a linearizable, sharded key-value store with
-multi-key updates and dynamic load balancing, similar in functionality to
-Amazon's DynamoDB or Google's Spanner. Implemented the classical primary-back and Paxos
-system for the distributed key-value store.
+I worked on a quarter-long class project to build a linearizable, sharded key-value store with support for multi-key updates and dynamic load balancing. This system is designed to offer functionality similar to Amazon's DynamoDB or Google's Spanner. I implemented classical primary-backup and Paxos systems to support the distributed key-value store.

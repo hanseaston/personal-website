@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Implemented mini-max and expectimax search with evaluation functions. Programmed reinforcement algorithm for Pacman with value iteration and Q-learning. Used hidden Markov model and approximate inference to track invisible ghosts.
+I implemented mini-max and expectimax search algorithms, along with evaluation functions, to enhance decision-making in a game. Additionally, I programmed a reinforcement learning algorithm for Pacman, utilizing both value iteration and Q-learning techniques. Furthermore, I employed a hidden Markov model and approximate inference methods to track invisible ghosts in the game.

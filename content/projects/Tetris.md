@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Built the core functionalites of the Tetris in Ruby. Utilized the Model, View, Controller pattern to structure the game. Implemented multiple game modes and point boost mechanisms. This is a project used in my Programming Languages class.
+I built the core functionalities of Tetris using Ruby, following the Model-View-Controller (MVC) pattern to structure the game. In addition to the basic gameplay, I implemented multiple game modes and introduced point boost mechanisms to enhance the gaming experience. This project was a part of my Programming Languages class and demonstrated my proficiency in designing and implementing interactive games using Ruby.

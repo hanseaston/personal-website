@@ -4,11 +4,11 @@ title: 'Message Application'
 github: ''
 external: 'https://courses.cs.washington.edu/courses/cse332/19wi/assignments/projects/p2/spec2.pdf'
 tech:
-  - Java 
+  - Java
   - Data structure
-  
+
 company: ''
 showInProjects: true
 ---
 
-Improved the back-end of a chat application using several self-implemented dictionaries, including AVL Tree, Hash Table, Hash Trie Map, etc. Added auto-correction, auto-complete, and word-suggestion features using multiple sorting algorithms on an imported dictionary. 
+I enhanced the back-end of a chat application by implementing several custom data structures, including AVL Trees, Hash Tables, Hash Trie Maps, and more. These data structures were used to optimize various features within the application. Additionally, I introduced auto-correction, auto-complete, and word-suggestion functionalities by integrating multiple sorting algorithms with an imported dictionary.

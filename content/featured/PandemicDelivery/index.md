@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-During the ongoing pandemic, getting groceries can sometimes be a real challenge. Several people in our Seattle neighborhood started a non-profit community service and delivered fresh produce to people's doors directly. The e-commerce shop, a full-stack application using modern technologies built from scratch, is our next phase of expansion. I built this application as an open-source project in hope that more developers can use it for their own neighborhoods.
+During the pandemic, acquiring groceries has become quite a challenge. In response, several people in our Seattle neighborhood initiated a non-profit community service, delivering fresh produce directly to people's doors. The next phase of our expansion is the development of an e-commerce shop, a full-stack application built from scratch using modern technologies. I created this application as an open-source project with the hope that more developers can utilize it to support their own neighborhoods.

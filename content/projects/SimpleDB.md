@@ -4,11 +4,11 @@ title: 'Simple DB'
 github: ''
 external: 'https://courses.cs.washington.edu/courses/cse444/20sp/calendar/hwlist.html'
 tech:
-  - Java 
+  - Java
   - DBMS
   - SQL
 company: ''
 showInProjects: true
 ---
 
-A quarter long class project to build a simplified database management system in Java that handles client’s SQL queries. Ensured database’s concurrency with two-phase locking and recoverability with log file. Implemented cores components of a DBMS, including Buffer Pool Manager, Lock Manager, Log Manager, Query Parser, and Query Optimizer.
+I developed a simplified database management system in Java. This system was designed to handle client SQL queries effectively. To ensure database concurrency correctness, I implemented a two-phase locking mechanism, and for recoverability, I utilized a log file scheme. The project involved building core components of the DBMS, including the Buffer Pool Manager, Lock Manager, Log Manager, Query Parser, and Query Optimizer.

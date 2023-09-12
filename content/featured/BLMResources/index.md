@@ -2,8 +2,8 @@
 date: '1'
 title: 'BLM Educational Resources'
 cover: './landinPage.png'
-github: 'https://github.com/hanseaston/blm-resources'
-external: 'https://hanseaston.github.io/blm-resources/'
+github: ''
+external: ''
 tech:
   - Gatsby
   - React
@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A Gatsby-based informational website to help people become more educated in the Black Lives Matter Movement. Features recent BLM-related articles, organizations, and videos for the readers the browse through. Others are able to contribute new resources directly through the Strapi server that runs in production. The website also offers multiple RESTful endpoints where developers can query related data through API calls.
+I've developed an informational website using Gatsby to facilitate education on the Black Lives Matter Movement. The simple platform offers a range of features, including access to recent BLM-related articles, organizations, and videos for readers to explore. Additionally, users can contribute new resources directly through the Strapi server that operates in production. Moreover, the website provides multiple RESTful endpoints, allowing developers to query related data via API calls.

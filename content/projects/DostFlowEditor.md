@@ -1,6 +1,6 @@
 ---
 date: '2020-07-21'
-title: 'Dost Education Admin Dashboard'
+title: 'Education Admin Dashboard'
 github: ''
 external: 'https://www.dosteducation.com/'
 tech:
@@ -13,4 +13,4 @@ company: ''
 showInProjects: true
 ---
 
-Participated in the Microsoft's Hackathon in Seattle. Worked in a team of three to develop an admin dashboard for the educational website Dost, based in India. Used React on the frontend with Flask on the backend. Successfully integrated a React's flow editor library into the main codebase in order to streamline the Whatsapp chatbot's workflow for the website.
+I participated in Microsoft's Hackathon in Seattle and worked as part of a three-person team to develop an admin dashboard for the educational website Dost, which is based in India. We used React for the frontend and Flask for the backend. One of our notable achievements was successfully integrating a React flow editor library into the main codebase to streamline the workflow of the WhatsApp chatbot for the website.

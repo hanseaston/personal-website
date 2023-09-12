@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Worked as a part-time summer intern for Project Sidewalk - an innovative web-based tool that aims to improve accessibility for people with mobility impairments. Worked on the front-end design of the website using Javascript, HTML, and CSS. Participated weekly Hackathon for Seattle city street label validations and collaborated with other team members to incorporate Scala logic into the codebase.
+I worked as a part-time summer intern for Project Sidewalk, an innovative web-based tool focused on enhancing accessibility for individuals with mobility impairments. During my internship, I primarily contributed to the front-end design of the website, utilizing Javascript, HTML, and CSS. I also actively participated in weekly Hackathons, specifically focusing on Seattle city street label validations, and collaborated closely with fellow team members to integrate Scala logic into the project's codebase.

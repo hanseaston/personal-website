@@ -1,14 +1,14 @@
 ---
-date: '4'
-title: 'AWS Software Engineer Intern'
+date: '3'
+title: 'Software Engineer Intern'
 company: 'Amazon'
 location: 'Seattle, WA'
 range: 'Jun 2021 - Sep 2021'
 url: 'https://aws.amazon.com/connect/'
 ---
 
-- I interned at the AWS Amazon Connect Team during this summer. Amazon Connect builds a modern contact center for businesses and organizations across the world.
+- I interned with the AWS Amazon Connect Team this summer. Amazon Connect builds modern contact centers used by businesses and organizations worldwide.
 
-- The goal of my internship is to experiment and implement new versions of the routing algorithm that matches contacts with agents in the contact center. I enjoy the open-ended nature of my internship project. I researched extensively on algorithmic designs, and throughout the internship, I had the chance learn classical queueing theory, control system, metrics collection, data visualization, and proof-of-concept programming.
+- The primary goal of my internship was to experiment with and implement new versions of the routing algorithm that matches contacts with agents in the contact center. I particularly enjoyed the open-ended nature of my internship project. Throughout this period, I conducted extensive research on algorithmic designs. Over the course of the internship, I had the opportunity to delve into various areas, including classical queueing theory, control systems, metrics collection, data visualization, and proof-of-concept programming.
 
-- I also had a chance to learn and explore the engineering cultures at Amazon and familiarize myself with the internal tools and resources Amazonians use in their everyday job. It has been a great learning experience.
+- Moreover, I had the privilege of familiarizing myself with Amazon's engineering culture and exploring the internal tools and resources that Amazonians use in their daily work. It has been an invaluable and enriching learning experience."

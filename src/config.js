@@ -9,7 +9,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Hans Easton',
   location: 'Seattle, WA',
-  email: 'hansreaston@gmail.com',
+  email: 'hanszeaston@gmail.com',
   github: 'https://github.com/hanseaston',
   twitterHandle: '',
   socialMedia: [

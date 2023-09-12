@@ -1,14 +1,14 @@
 ---
 date: '2'
-title: 'Full Stack Intern'
+title: 'Software Engineer Intern'
 company: 'Spot'
 location: 'Seattle, WA'
 range: 'Jan 2021 - Mar 2021'
 url: 'https://www.spotvirtual.com/'
 ---
 
-- I had the honor to intern at Spot, a brand new startup building a revolutionary 3D remote work platform. Spot aims to bring the spirit and utility of sharing the same physical office to a digital experience.
+- I spent three months interning at Spot, a four-person startup that's pioneering a revolutionary 3D remote work platform. Spot's mission is to recreate the spirit and practicality of sharing a physical office within a digital realm.
 
-- I worked directly with the two co-founders, Gordon and Wes, who have also co-founded Outreach, a sales engagement company of more than a thousand employees. I learned so much from both of them - their unique way to quickly develop features customers want, and their technical expertise in building the entire application from scratch.
+- During my internship, I had the honor of working closely with Spot's two co-founders, Gordon and Wes, who also co-founded Outreach, a sales engagement company with over a thousand employees. Learning from both of them was an invaluable experience. I gained insights into their unique approach to rapidly developing features that customers desire and their technical prowess in constructing the entire application from the ground up.
 
-* I learned many new exciting technologies related to full stack development - Apollo, React, GraphQL, NestJS, TypeORM, TypeScript, BabylonJS, Playwright - just to name a few. I enjoyed the aggressively agile development process that's only exclusive to brand new startups, like Spot. New features I have implemented throughout the internship are quickly merged to production upon approval, and customers will directly use them and provide us feedback.
+* I learned many exciting new technologies related to full-stack development, including Apollo, React, GraphQL, NestJS, TypeORM, TypeScript, BabylonJS, and Playwright, just to name a few. I thoroughly enjoyed the highly agile development process exclusive to brand new startups, like Spot. The new features I implemented during the internship were promptly merged into production upon approval, and customers was able to directly use them. It was a blast.

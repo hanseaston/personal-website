@@ -4,11 +4,11 @@ title: 'Spam Filter'
 github: ''
 external: 'https://courses.cs.washington.edu/courses/cse312/18sp/homework/HW4.pdf'
 tech:
-  - Java 
+  - Java
   - Machine Learning
-  
+
 company: ''
 showInProjects: true
 ---
 
-Implemented a Naive Bayes Classifier to detect spam emails, in Java. Applied Bayes' theorem, conditional probability, and Laplace smoothing in the machine learning algorithm. Reached roughly 95% accuracy (27 incorrectly classified out of 500 emails).
+I implemented a Naive Bayes Classifier in Java to detect spam emails. In this project, I applied fundamental machine learning concepts such as Bayes' theorem, conditional probability, and Laplace smoothing to build the classification algorithm. The classifier achieved an impressive accuracy of approximately 95%, with only 27 out of 500 emails incorrectly classified as spam. This project demonstrated my ability to develop effective machine learning solutions for practical applications like email spam detection.

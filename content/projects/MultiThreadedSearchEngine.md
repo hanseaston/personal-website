@@ -12,7 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Built a search engine that allows users to look up keywords in a local file database.
-Used C to implement file system crawler and word indexer. Used C++ to implement word
-query processor. Converted the index file into architecture-neutral form to store in disk
-Created server-side listening socket to handle client’s HTTP requests.
+I constructed a search engine that allows users to look up keywords in a local file database. I used C to implement the file system crawler and word indexer. In C++, I implemented the word query processor. Finally, I converted the index file into an architecture-neutral form to store on disk and created a server-side listening socket to handle clients' HTTP requests.
