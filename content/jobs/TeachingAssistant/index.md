@@ -3,7 +3,7 @@ date: '1'
 title: 'Teaching Assistant'
 company: 'UW'
 location: 'Seattle, WA'
-range: 'Jun 2020 - Jun 2023'
+range: 'Jun 2020 - Jan 2024'
 url: 'https://courses.cs.washington.edu/courses/cse332/23su/lectures/'
 ---
 
